@@ -1,0 +1,23 @@
+{
+  "name": "gitexam",
+  "version": "1.0.0",
+  "description": "NodejsExam",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Usmonjon001/NodeJSExamAPP.git"
+  },
+  "keywords": [
+    "Hello"
+  ],
+  "author": "Usmonjon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Usmonjon001/NodeJSExamAPP/issues"
+  },
+  "homepage": "https://github.com/Usmonjon001/NodeJSExamAPP#readme"
+}
