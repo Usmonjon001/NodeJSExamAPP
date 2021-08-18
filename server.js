@@ -11,7 +11,7 @@ const db = new kursdatabase()
 
  const app = express();
 
- app.listen(7000, ()=>{
+ app.listen(6000, ()=>{
      console.log('app running port');
  })
  app.use(express.urlencoded({
